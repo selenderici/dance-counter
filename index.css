@@ -1,0 +1,63 @@
+#container {
+    background-color: aliceblue;
+    max-width: 85%; 
+    margin: 10px auto;
+    padding: 20px 10px;
+    border: 5px solid antiquewhite;
+    border-radius: 5px;
+}
+
+body {
+    background-image: url(social.jpeg);
+    background-size: cover;
+    max-width: 400px; 
+    height: 100vh; 
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+h1 {
+    margin: 5px auto;
+}
+
+h2 {
+    font-size: 50px;
+    margin: 0 auto 20px auto;
+}
+
+p {
+    font-size: 20px;
+}
+
+button {
+    width: 200px; 
+    padding: 10px 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: white; 
+    font-size: 20px; 
+    margin-bottom: 6px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background-color: #00a5cf;
+}
+
+#save-btn {
+    background-color: #25a18e;
+}
+
+#reset-btn {
+    width: 100px; 
+    padding: 2px 15px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: black;
+    font-size: 20px; 
+    margin-top: 20px;
+    border: none;
+    background-color: #c9184a; 
+}
